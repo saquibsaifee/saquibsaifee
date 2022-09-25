@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello Everyone 👋
+I am Security Professional who wants to learn and grow everyday.
 
-<!--
-**saquibsaifee/saquibsaifee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I will be writing lots of writeups in upcoming days, keep coming back for updated content.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at IBM as Security Enginer Intern (part-time) and full-time student at The George Washington University studying Masters in Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning for eLearning Certified Professional Penetration Tester(eCPPT) certification and taking amazing classes on Network Security.
+
+- 📫 How to reach me: 
+  Email: saquibsaifee2[at]gmail.com , LinkedIn: linkedin.com/in/saquibsaifee
+  
+- 😄 Pronouns: He/Him/His
