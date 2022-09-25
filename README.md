@@ -15,4 +15,4 @@ I will be writing lots of writeups in upcoming days, keep coming back for update
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=saquibsaifee&show_icons=true)
 
-https://img.shields.io/github/license/saquibsaifee/saquibsaifee
+![https://img.shields.io/github/license/saquibsaifee/saquibsaifee]
