@@ -11,8 +11,11 @@ I will be writing lots of writeups in upcoming days, keep coming back for update
   Email: saquibsaifee2[at]gmail.com , LinkedIn: linkedin.com/in/saquibsaifee
   
 - 😄 Pronouns: He/Him/His
+- 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=saquibsaifee)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=saquibsaifee&show_icons=true)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saquibsaifee&theme=blue-green)
 
 ## 😂 Here is a random joke that'll make you laugh!
