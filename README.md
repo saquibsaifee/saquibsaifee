@@ -11,16 +11,13 @@ I will be writing lots of writeups in upcoming days, keep coming back for update
   Email: saquibsaifee2[at]gmail.com , LinkedIn: linkedin.com/in/saquibsaifee
   
 - 😄 Pronouns: He/Him/His
-
+![Profile View Counter](https://komarev.com/ghpvc/?username=saquibsaifee)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=saquibsaifee&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saquibsaifee&theme=blue-green)
-## 3. Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=saquibsaifee)
+
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-![Profile View Counter](https://komarev.com/ghpvc/?username=saquibsaifee)
-### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/saquibsaifee/saquibsaifee)
+
 
 
 ![https://img.shields.io/github/license/saquibsaifee/saquibsaifee]
