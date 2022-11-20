@@ -17,12 +17,10 @@ I will be writing lots of writeups in upcoming days, keep coming back for update
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/saquibsaifee/saquibsaifee?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 ![Profile View Counter](https://komarev.com/ghpvc/?username=saquibsaifee)
 
-<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=saquibsaifee&show_icons=true) -->
-
 ### ⚙️ &nbsp;GitHub Analytics
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=saquibsaifee&theme=dark&show_icons=true" width = 450 />
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=saquibsaifee&hide_border=true" width = 450 />
+  <img src = "https://github-readme-stats.vercel.app/api?username=saquibsaifee&theme=dark&show_icons=true" width = 475 />
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=saquibsaifee&theme=dark&hide_border=true" width = 475 />
 </p>
 
 <h3 align="left">Let's Connect <img src="https://raw.githubusercontent.com/saquibsaifee/saquibsaifee/main/images/handshake.gif" height="32px"></h3>
