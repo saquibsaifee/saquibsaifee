@@ -22,8 +22,7 @@ I will be writing lots of writeups in upcoming days, keep coming back for update
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-<! --
-# Hello, This is Anubhav 
+<! -- # Hello, This is Anubhav 
 <!-- <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"> -->
 <br />
 
@@ -98,5 +97,4 @@ I go online by the alias @dn0m1n8tor. I'm a third year pursuing Bachelor's in Co
 <a href="https://anubhav-singh.medium.com"><img src="https://img.shields.io/badge/-@anubhav.singh-1877F2?style=flat&logo=medium&logoColor=white"/></a>
 <!-- <a href="https://instagram.com/happy_a314"><img src="https://img.shields.io/badge/-@happy_a314-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
   
- </p>
--->
+ </p> -->
