@@ -12,9 +12,12 @@ I will be writing lots of writeups in upcoming days, keep coming back for update
 - 🌱 I’m currently learning for eLearning Certified Professional Penetration Tester(eCPPT) certification and taking amazing classes on Network Security.
   
 - 😄 Pronouns: He/Him/His
-- 
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=saquibsaifee)
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/saquibsaifee/saquibsaifee?logo=markdown&label=LAST+UPDATE&color=3388FF&style=flat">
+
+### :closed_book: Learning Path
+* [eLearning CCPTv2](https://github.com/saquibsaifee/eCCPTv2-Journal)
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align = "center">
@@ -24,8 +27,8 @@ I will be writing lots of writeups in upcoming days, keep coming back for update
 
 <h3 align="left">Let's Connect <img src="https://raw.githubusercontent.com/saquibsaifee/saquibsaifee/main/images/handshake.gif" height="32px"></h3>
 <p align="center">
-<a href="https://twitter.com/saquibsaifee"><img src="https://img.shields.io/badge/-@Saquib%20Saifee-1877F2?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="https://linkedin.com/in/saquibsaifee"><img src="https://img.shields.io/badge/-Saquib%20Saifee-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/saquibsaifee"><img src="https://img.shields.io/badge/-@Saquib%20Saifee-1877F2?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="mailto:saquibsaifee2@gmail.com"><img src="https://img.shields.io/badge/-saquibsaifee2@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
  </p>
 
