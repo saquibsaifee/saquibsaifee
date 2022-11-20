@@ -12,10 +12,9 @@ I will be writing lots of writeups in upcoming days, keep coming back for update
 - 🌱 I’m currently learning for eLearning Certified Professional Penetration Tester(eCPPT) certification and taking amazing classes on Network Security.
   
 - 😄 Pronouns: He/Him/His
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/saquibsaifee)
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/saquibsaifee/saquibsaifee?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+- 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=saquibsaifee)
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/saquibsaifee/saquibsaifee?logo=markdown&label=LAST+UPDATE&color=0066FF&style=flat">
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align = "center">
