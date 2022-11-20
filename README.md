@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=%55AAFF&lines=Hello+Everyone!%20:)&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%3388FF&lines=Hello+Everyone!%20:)&center=true&size=30">
   </a>
 </h1>
 
@@ -14,7 +14,7 @@ I will be writing lots of writeups in upcoming days, keep coming back for update
 - 😄 Pronouns: He/Him/His
 - 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=saquibsaifee)
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/saquibsaifee/saquibsaifee?logo=markdown&label=LAST+UPDATE&color=55AAFF&style=flat">
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/saquibsaifee/saquibsaifee?logo=markdown&label=LAST+UPDATE&color=3388FF&style=flat">
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align = "center">
