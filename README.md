@@ -21,9 +21,8 @@ I will be writing lots of writeups in upcoming days, keep coming back for update
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align = "center">
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=saquibsaifee&show_icons=true)
-  <img src = "https://github-readme-stats.vercel.app/api?username=saquibsaifee&show_icons=true" width = 500 />
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=saquibsaifee&hide_border=true" width = 500 />
+  <img src = "https://github-readme-stats.vercel.app/api?username=saquibsaifee&theme=dark&show_icons=true" width = 450 />
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=saquibsaifee&hide_border=true" width = 450 />
 </p>
 
 <h3 align="left">Let's Connect <img src="https://raw.githubusercontent.com/saquibsaifee/saquibsaifee/main/images/handshake.gif" height="32px"></h3>
