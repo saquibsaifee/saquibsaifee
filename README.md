@@ -22,12 +22,13 @@ I will be writing lots of writeups in upcoming days, keep coming back for update
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/saquibsaifee/saquibsaifee?logo=markdown&label=LAST+UPDATE&color=3388FF&style=flat">
 
 ### :closed_book: Write-ups
-
 * [Lame (Hack The Box)](https://github.com/saquibsaifee/write-ups/blob/main/Lame)<br>
 
-
-### :closed_book: Learning Path
+### :closed_book: Certification Learning
 * [eLearning CCPTv2](https://github.com/saquibsaifee/eCCPTv2-Journal)
+
+### :closed_book: Daily Leet code for consistency
+* [Leet Codes](https://github.com/saquibsaifee/leetcode)
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align = "center">
