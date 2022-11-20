@@ -3,7 +3,7 @@ I am Security Professional who wants to learn and grow everyday.
 
 I will be writing lots of writeups in upcoming days, keep coming back for updated content.
 
-- 🔭 I’m currently working at IBM as Security Enginer Intern (part-time) and full-time student at The George Washington University studying Masters in Cybersecurity.
+- 🔭 I’m currently working at IBM as Security Enginer Intern and full-time student at The George Washington University studying Masters in Cybersecurity.
 
 - 🌱 I’m currently learning for eLearning Certified Professional Penetration Tester(eCPPT) certification and taking amazing classes on Network Security.
 
@@ -11,6 +11,11 @@ I will be writing lots of writeups in upcoming days, keep coming back for update
   Email: saquibsaifee2[at]gmail.com , LinkedIn: linkedin.com/in/saquibsaifee
   
 - 😄 Pronouns: He/Him/His
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/saquibsaifee)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/saquibsaifee)
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=saquibsaifee&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12">
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/saquibsaifee/saquibsaifee?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=saquibsaifee)
 
