@@ -23,6 +23,7 @@ I will be writing lots of writeups in upcoming days, keep coming back for update
 
 ### :closed_book: Write-ups
 * [Lame (Hack The Box)](https://github.com/saquibsaifee/write-ups/blob/main/Lame)<br>
+* [Advent of Cyber 2022](https://github.com/saquibsaifee/THM_Advent_of_Cyber_2022)<br>
 
 ### :closed_book: Certification Learning
 * [eLearning CCPTv2](https://github.com/saquibsaifee/eCCPTv2-Journal)
