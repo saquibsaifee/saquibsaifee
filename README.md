@@ -10,12 +10,8 @@
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-I am Security Professional who wants to learn and grow everyday. I work at IBM as Security Enginer Intern and a Full-time student at The George Washington University studying Masters in Cybersecurity :mortar_board:. I'm a passionate learner who's always willing to learn and work across technologies and domains :bulb:. I always look forward to learn and experiment stuff with like-minded people and expand my spectrum of knowledge 🤓
+I am a Security Professional who wants to learn and grow every day. I work at IBM as a Security Enginer and a graduate from The George Washington University, studying with Masters in Cybersecurity :mortar_board:. I'm a passionate learner who's always willing to learn and work across technologies and domains :bulb:. I always look forward to learn and experiment stuff with like-minded people and expanding my spectrum of knowledge 🤓
 
-I will be writing lots of writeups in upcoming days, keep coming back for updated content.
-
-- 🌱 I’m currently learning for eLearning Certified Professional Penetration Tester(eCPPT) certification and taking amazing classes on Network Security.
-  
 - 😄 Pronouns: He/Him/His
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=saquibsaifee)
@@ -24,11 +20,6 @@ I will be writing lots of writeups in upcoming days, keep coming back for update
 ### :closed_book: Daily Leet code for consistency
 * [Leet Codes](https://github.com/saquibsaifee/leetcode)
 
-
-### :closed_book: Write-ups
-* [Lame (Hack The Box)](https://github.com/saquibsaifee/write-ups/blob/main/Lame)<br>
-* More coming soon ...
-<!-- * [Advent of Cyber 2022](https://github.com/saquibsaifee/THM_Advent_of_Cyber_2022)<br> -->
 
 ### :closed_book: Certification Learning
 * [eLearning CCPTv2](https://github.com/saquibsaifee/eCCPTv2-Journal)
