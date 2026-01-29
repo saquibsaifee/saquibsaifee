@@ -12,7 +12,7 @@
 
 ### 🚀 Professional Summary
 
-I am a **Senior Security Engineer** at **IBM** with over **X years of experience** (Update with your specific tenure) in architecting secure systems and defending enterprise-scale infrastructure. My work resides at the intersection of **Security Research** and **Engineering**, with a focus on creating resilient foundations for the next generation of AI and Cloud technology.
+I am a **Senior Security Engineer** at **IBM** with over **4 years of experience** in architecting and building secure systems and defending enterprise-scale infrastructure. My work resides at the intersection of **Security Research** and **Engineering**, with a focus on creating resilient foundations for the next generation of AI and Cloud technology.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Certified-CISSP-navy?style=for-the-badge&logo=checkpoint&logoColor=white" height="35" />
